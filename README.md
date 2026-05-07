@@ -20,4 +20,6 @@ How professional tools like Nmap work under the hood
 Ethical and legal boundaries around network scanning
 
 Domain: Cybersecurity | Python | Networking
+
+
 <img width="1049" height="528" alt="Screenshot 2026-04-18 023518" src="https://github.com/user-attachments/assets/4e3e7f9d-d1f1-4503-a980-837fb962e16d" />
