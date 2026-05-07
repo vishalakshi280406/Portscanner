@@ -1,4 +1,4 @@
-#PYTHON PORT SCANNER
+<img width="1349" height="628" alt="Screenshot 2026-04-18 023518" src="https://github.com/user-attachments/assets/0948ad9b-121d-47d1-8ff9-b923919efd33" />#PYTHON PORT SCANNER
 
 📖 About the Project
 This is a beginner cybersecurity project that demonstrates how TCP port scanning works at a fundamental level. Instead of using existing tools, the entire scanner is written from scratch using Python's built-in socket and threading modules.
@@ -22,3 +22,4 @@ How professional tools like Nmap work under the hood
 Ethical and legal boundaries around network scanning
 
 Domain: Cybersecurity | Python | Networking
+<img width="1349" height="628" alt="Screenshot 2026-04-18 023518" src="https://github.com/user-attachments/assets/4e3e7f9d-d1f1-4503-a980-837fb962e16d" />
